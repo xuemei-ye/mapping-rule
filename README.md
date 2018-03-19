@@ -15,7 +15,7 @@ The experiments designed 9 groups experiments on the selected 9 benchmark functi
 ![Mapping Rule](https://github.com/xuemei-ye/mapping-rule/blob/master/Mapping%20Rule.PNG)
 
 
-**Read more :**
+read more :
 
-[Note](https://zhuanlan.zhihu.com/p/34699945)
+[FWA Note](https://zhuanlan.zhihu.com/p/34699945)
 
