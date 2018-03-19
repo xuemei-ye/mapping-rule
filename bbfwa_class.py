@@ -1,6 +1,6 @@
 
 # coding: utf-8
-# References: Bare bones fireworks algorithm by Junzhi Li 
+# References: Bare bones fireworks algorithm. by Junzhi Li 
 # https://www.sciencedirect.com/science/article/pii/S1568494617306609
 # ljz@pku.edu.cn
 
