@@ -11,6 +11,7 @@ This is the code for implementing the BBFWA algorithm to investigate the preform
 <!--在这里插入内容-->
 </html>
 
+
 ### The influence of the five mapping rules on the convergence speed
 
 The experiments designed 9 groups experiments on the selected 9 benchmark functions, the dimensions of each experiment is 100, 400, 700, 1000 respectively.The parameters of each run time: n = 30, Cr = 0.9, Ca = 1.2, Evaluation times: 30000.  Each line in the figure is the mean of 50 runs, the range of each line presents the confidence interval. e.g. Cigar and Discus function :
