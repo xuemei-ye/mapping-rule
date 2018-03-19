@@ -1,6 +1,6 @@
 # Which Mapping Rule in the Fireworks Algorithm is Better for Large Scale Optimization
 
-IEEE CEC 2018, by Xuemei Ye, Junzhi Li, Bo Xu and Ying Tan
+IEEE CEC 2018, by Xuemei Ye, Junzhi Li, Bo Xu and Ying Tan.
 
 This is the code for implementing the BBFWA algorithm to investigate the preformence of five mapping rule presented in the paper: Which Mapping Rule in the Fireworks Algorithm is Better for Large Scale Optimization. bbfwa_drawPoint.py is used to draw abridged general view of five mapping rules.
 
@@ -17,8 +17,5 @@ The experiments designed 9 groups experiments on the selected 9 benchmark functi
 
 **Read more :**
 
-[Fireworks Algorithm](http://www.cil.pku.edu.cn/research/fa/)
-
 [Note](https://zhuanlan.zhihu.com/p/34699945)
 
-[Relevant paper and code](http://www.cil.pku.edu.cn/research/fwa/resources/index.html)
