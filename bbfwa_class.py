@@ -1,9 +1,8 @@
 
 # coding: utf-8
-
-# Bare bones fireworks algorithm
+# References: Bare bones fireworks algorithm
 # https://www.sciencedirect.com/science/article/pii/S1568494617306609
-# by Junzhi Li
+# by Junzhi Li 
 # ljz@pku.edu.cn
 
 import numpy as np
