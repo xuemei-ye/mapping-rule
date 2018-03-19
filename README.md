@@ -22,6 +22,6 @@ The experiments designed 9 groups experiments on the selected 9 benchmark functi
 
 Read More :
 
-- [BBFWA] (http://www.cil.pku.edu.cn/research/fwa/publication/Li2018The.pdf)
+- [BBFWA](http://www.cil.pku.edu.cn/research/fwa/publication/Li2018The.pdf)
 - [FWA Note](https://zhuanlan.zhihu.com/p/34699945)
 
