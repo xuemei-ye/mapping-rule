@@ -6,7 +6,11 @@ This is the code for implementing the BBFWA algorithm to investigate the preform
 
 ### Five Mapping Rules
 
-![Mapping Rule](https://github.com/xuemei-ye/mapping-rule/blob/master/Mapping%20Rule.PNG)
+![Mapping Rule]()
+<html>
+ <img src="https://github.com/xuemei-ye/mapping-rule/blob/master/Mapping%20Rule.PNG" width = "500" height = "400" alt="Cigar_Discus" align=center />
+<!--在这里插入内容-->
+</html>
 
 ### Experiment Result
 
@@ -15,7 +19,7 @@ The experiments designed 9 groups experiments on the selected 9 benchmark functi
 ![Cigar Function](https://github.com/xuemei-ye/mapping-rule/blob/master/Cigar_Discus.PNG =100x100)
 
 <html>
- <img src="https://github.com/xuemei-ye/mapping-rule/blob/master/Cigar_Discus.PNG" width = "500" height = "200" alt="Cigar_Discus" align=center />
+ <img src="https://github.com/xuemei-ye/mapping-rule/blob/master/Cigar_Discus.PNG" width = "500" height = "400" alt="Cigar_Discus" align=center />
 <!--在这里插入内容-->
 </html>
 
